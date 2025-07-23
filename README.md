@@ -120,5 +120,4 @@ I love turning data into decisions and research into products. I strive to **bui
 - 🧑‍💻 [GitHub](https://github.com/Abdullah02024)
 - 🌐 [Portfolio](https://your-portfolio.com)
 - 📧 Email: ranaabdullahimtiaz@gmail.com
-
- 
+------------------------------------------------------------------------------------------------
