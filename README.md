@@ -1,98 +1,155 @@
-<h1 align="center">👋 Hi, I'm Abdullah</h1>
+<!-- README.md -->
+
+<h1 align="center">
+  🎮🔥 Welcome to My World — Abdullah Imtiaz 🔥🎮
+</h1>
 
 <p align="center">
-  <b>AI/ML Engineer</b> | 🤖 Machine Learning | 🧠 Deep Learning | 🗣️ NLP | 👁️ Computer Vision  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=AI%2FML+Engineer+%7C+Generative+AI+Explorer;DevOps+Fan+%7C+Open+Source+Contributor;Building+Intelligent+Systems+With+Heart+%F0%9F%A7%A1" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  🎓 BS in Computer Science @ FAST-NUCES <br>
-  🔍 Passionate about building impactful AI/ML solutions through scalable systems and open-source innovation.
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
 ---
 
-## 💼 About Me
+## 👨‍💻 Who Am I?
 
-- 🔬 Build machine learning models for prediction, classification, and recommendation
-- 💬 Solve NLP tasks like sentiment analysis, translation, and chatbot development
-- 📦 Design and deploy end-to-end AI solutions with APIs and dashboards
-- 🧠 Contribute to open-source and stay engaged in research
+I'm **Abdullah Imtiaz**, an AI/ML Engineer from Lahore, Pakistan 🇵🇰. I'm deeply passionate about solving **real-world problems** using:
+- 🧠 Artificial Intelligence
+- 🤖 Machine Learning
+- 🌐 Web & App Development
+- ☁️ DevOps & Cloud
+- 🗣️ Generative AI + NLP
+- 👁️ Computer Vision
 
----
-
-## 🛠️ Tech Stack (Summary)
-
-- **Languages:** Python, C++, R, Bash, SQL  
-- **Frameworks & Tools:** TensorFlow, PyTorch, Keras, Scikit-learn, Flask, FastAPI, Streamlit  
-- **NLP:** spaCy, NLTK, Hugging Face Transformers, Gensim  
-- **CV:** OpenCV, YOLO, MediaPipe, CNNs  
-- **Data:** Pandas, NumPy, SQL, MongoDB  
-- **DevOps & Cloud:** Docker, GitHub Actions, AWS, GCP, Heroku, Kubernetes  
+🎓 Final Year CS Student @ FAST-NUCES  
+💡 Always innovating. Always learning. Always coding.  
+🎯 On a mission to merge intelligence with interaction.
 
 ---
 
-## 📦 Skills & Badges
+## 🚀 What Drives Me?
 
-### 🧰 Programming & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat&logo=scala&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+> "Code with clarity. Train with purpose. Ship with excellence."
 
-### 📊 Data Science
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-2E8B57?style=flat)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+I love turning data into decisions and research into products. I strive to **build robust, scalable AI systems** — whether it's real-time pose detection, speech-to-text translation, or RAG-powered AI search.
 
-### 🤖 ML / AI
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+---
 
-### 👁️ Computer Vision & NLP
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-FFA500?style=flat)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black)
+## 🎮 Featured Projects
+
+| 🛠️ Project | ⚙️ Technologies | 🌟 Highlights |
+|-----------|----------------|----------------|
+| **HealthGenix (FYP)** | MediaPipe, React Native, Flask, ML, Firebase | Body pose detection, diet plans, chatbot integration |
+| **Generative Poetry (Roman Urdu)** | Bi-LSTM, NLP | Deep learning for expressive AI poetry |
+| **Multilingual Speech Translator** | Whisper, TTS, LLAMA | Real-time multi-language AI translator |
+| **GitOps CI/CD** | Kubernetes, Argo CD, Flux CD | Secure, auto-deploying cloud-native pipelines |
+| **Roman Urdu Sentiment Analysis** | BERT, Transformers, HuggingFace | NLP for non-standard script text |
+| **Keylogger (InfoSec Tool)** | Python | Captures keystrokes, screenshots, audio ethically |
+| **Weather App** | OpenWeather API | Live weather dashboard using React |
+| **Real Estate Web Platform** | MERN Stack | Full CRUD, authentication, search filter |
+
+---
+
+## 🧠 Deep AI/ML Engineering Skillset
+
+### 🎯 Core Languages
+`Python`, `C++`, `C`, `JavaScript`, `SQL`
+
+### 📚 Frameworks & Libraries
+- **ML/DL:** `Scikit-learn`, `TensorFlow`, `PyTorch`, `Keras`, `XGBoost`, `LightGBM`
+- **NLP:** `Transformers`, `spaCy`, `NLTK`, `LangChain`, `BERT`, `GPT-2`, `RAG`
+- **CV:** `OpenCV`, `YOLO`, `MediaPipe`, `CNNs`
+
+### 🗃️ Databases & Data Engineering
+- `MySQL`, `PostgreSQL`, `MongoDB`, `Oracle`
+- `Apache Spark`, `PySpark`
+
+### 🌐 Full-Stack & App Development
+- `HTML`, `CSS`, `Bootstrap`, `ReactJS`, `React Native`, `Node.js`, `Express.js`, `Flask`, `MERN`
 
 ### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=flat&logo=kubernetes&logoColor=white)
+- `AWS`, `GCP`, `Azure`
+- `Docker`, `Kubernetes`, `GitHub Actions`, `Argo CD`, `Flux CD`
+
+### 📊 Visualization & Tools
+- `Power BI`, `Matplotlib`, `Seaborn`, `Tabula`, `Jupyter`, `Colab`, `VS Code`
 
 ---
 
-## 📊 GitHub Stats
+## 🏅 Certifications & Achievements
+
+🏆 **1st Prize** - Coding Competition, Punjab College  
+🥇 **FYP Shortlisted** - Among Top AI Projects @ FAST  
+🎖️ **High Achiever Award** - BISE Lahore
+
+---
+
+## 🔧 Badges of Power
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullah02024&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah02024&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah02024&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdullah02024&label=Profile+Views&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,react,flask,nodejs,docker,kubernetes,tensorflow,pytorch,git,aws,gcp,mongodb,mysql,javascript,postgresql,vscode" />
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 📈 GitHub Analytics
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah02024&show_icons=true&theme=react" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah02024&theme=react" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah02024&layout=compact&theme=react" />
+</p>
+
+---
+
+## 🧑‍🏫 Teaching & Mentorship
+
+👨‍🏫 **Theory of Automata TA** — FAST NUCES  
+🧠 **ICT Teaching Assistant** — Guided assignments and student projects
+
+---
+
+## 🤝 Let’s Connect & Collaborate
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/abdullah-imtiaz-ahmed-5a4672274/)
+- 🧑‍💻 [GitHub](https://github.com/Abdullah02024)
 - 🌐 [Portfolio](https://your-portfolio.com)
-- 📧 Email: abdullah@example.com
-- 🐙 [GitHub](https://github.com/abdullah02024)
+- 📧 Email: ranaabdullahimtiaz@gmail.com
 
 ---
 
-> _Proudly crafted with ❤️ by Abdullah | Powered by [GPRM](https://gprm.itsvg.in)_
+## 💬 Personal Philosophy
+
+> "Artificial Intelligence won’t replace humans — but humans who use AI will replace those who don’t."
+
+---
+
+<p align="center">
+  <img src="https://github.com/Abdullah02024/Abdullah02024/blob/main/banner.gif" alt="Animated Banner" />
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+> I generate Roman Urdu poetry with AI... and sometimes with **more emotion than humans**.
+
+---
+
+## 🔥 Profile Visitor Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abdullah02024&label=Profile+Views&color=blue&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+> _Proudly crafted with ❤️ by **Abdullah Imtiaz** — Powered by Purpose, Driven by Data._
+
+---
+ 
